@@ -9,9 +9,9 @@
 I needed a simple way to count reps during sets without unlocking my phone or navigating through heavy UI. This project focuses on **speed** and **simplicity**.
 
 ## ✨ Features
-* **One-Tap Counting:** Big, easy-to-hit buttons for incrementing reps.
+* **Smart Controls:** Dedicated Increment (+) and Decrement (-) buttons.
+* **Undo Capability:** Easily correct accidental clicks (never goes below zero).
 * **Instant Reset:** Clear the counter instantly between sets.
-* **Vanilla JavaScript:** No frameworks, just raw DOM manipulation for maximum performance.
 
 ## 🛠️ Tech Stack
 * **Structure:** HTML5
@@ -19,7 +19,7 @@ I needed a simple way to count reps during sets without unlocking my phone or na
 * **Logic:** Vanilla JavaScript (Event Listeners)
 
 ## 🚀 How to Run
-1. Clone the repo.
+1. Clone the repository.
 2. Open `index.html` in your browser.
 3. Start lifting. 💪
 
